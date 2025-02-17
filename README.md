@@ -159,9 +159,9 @@ else:
 
 🚀 How to Use This Script
 1️⃣ Download & Extract Cityscapes Dataset
-- Download leftImg8bit_trainvaltest.zip
-- Download gtFine_trainvaltest.zip
-- Extract both into cityscapes/
+- Download ```leftImg8bit_trainvaltest.zip```
+- Download ```gtFine_trainvaltest.zip```
+- Extract both into ```cityscapes/```
   
 2️⃣ Run the script on your PC with CUDA
 
